@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Gabriel Martins</h1>
-<h3 align="center">Full Stack Developer from Brazil.</h3>
+<p align="center"><a href="https://github.com/gabrieuz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=true&width=435&lines=Hello%2C+I'm+Gabriel+Martins." alt="Typing SVG" /></a>
+<h3 align="center">Full Stack Developer from Brazil.</h3></p>
 
 - 🌱 I’m currently learning **Angular, Spring Boot, DevOps.**
 
