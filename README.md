@@ -18,7 +18,7 @@
 *   **Languages:** Python | SQL | JavaScript/TypeScript
 *   **ML/DL/NLP:** PyTorch | TensorFlow | Scikit-learn | Pandas | NumPy | LangChain | Hugging Face | NLTK/spaCy
 *   **Specializations:** Computer Vision | NLP | LLMs (RAG, Fine-Tuning) | Diffusion Models | Reinforcement Learning | MLOps
-*   **Tools & Platforms:** AWS (SageMaker, Lambda) | Docker | Git | GitHub Actions | GitLab CI/CD | Vector DBs | Linux
+*   **Tools & Platforms:** Azure, AWS (SageMaker, Lambda) | Docker | Git | GitHub Actions | GitLab CI/CD | Vector DBs | Linux
 *   **Web Frameworks:** React | Node.js/Express | Angular | Nest.js | Django
 
 ---
