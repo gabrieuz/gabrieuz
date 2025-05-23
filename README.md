@@ -27,8 +27,6 @@
 
 *   **Martins, G. et al.** "A Review Towards Deep Learning for HDR Reconstruction." (Under Review, *Journal of Applied Sciences - MDPI*, 2025).
 *   **Martins, G. et al.** "A Method for Regression Testing Plan Ordering..." (Preparing for Submission, *CIbSE 2025*).
-*   Check out my research activities at [PAVIC Lab](link-if-lab-has-page).
-
 ---
 
 <!-- Optional: GitHub Stats -->
