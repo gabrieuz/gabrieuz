@@ -1,9 +1,5 @@
 # Gabriel Martins
 ### Data Scientist | Machine Learning Engineer | AI Researcher
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrieldlm-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/gabrieldlm)
-[![GitHub](https://img.shields.io/badge/GitHub-gabrieuz-grey?style=flat-square&logo=github)](https://github.com/gabrieuz)
-[![Email](https://img.shields.io/badge/Email-contact%20me-red?style=flat-square&logo=microsoftoutlook)](mailto:gabrieldlm@outlook.com)
-<!-- Optional: [![Portfolio](https://img.shields.io/badge/Portfolio-website.com-green?style=flat-square)](https://your-portfolio.com) -->
 
 👋 Hi, I'm Gabriel, based in Rio Branco, Brazil. I leverage Machine Learning and AI to build solutions that deliver real-world value, focusing on Deep Learning (CV & NLP), LLMs, and robust data practices.
 
